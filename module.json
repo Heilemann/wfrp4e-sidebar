@@ -1,0 +1,14 @@
+{
+  "name": "wfrp4e-sidebar",
+  "title": "WFRP 4e Sidebar",
+  "description": "Just keeping the old sidebar alive.",
+  "version": "1.0",
+  "author": "Michael Heilemann",
+  "styles": ["styles.css"],
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.7.0",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "changelog": ""
+}
